@@ -7,6 +7,8 @@
 - [广州住房公积金提取服务指南](http://www.gzgjj.gov.cn/web/static/articles/catalog_ff8080813b9be888013b9d7b26f20007/2016-05-27/article_ff8080813b9be888013b9d8fa4fe0035/ff8080813b9be888013b9d8fa4fe0035.html)
 
 ###提前办理事项
+> [查看公积金信息](http://my.gz.gov.cn/)
+
 - 办租房合同
     + 跟房东一起去当地“出租屋管理服务中心”
     + 房东带身份证、房产证（复印三页，包括房屋平面图）、门牌号证明（村委会开据）
