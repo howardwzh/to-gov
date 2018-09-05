@@ -1,7 +1,6 @@
 # 办事列表
 - [租房合同提取公积金（广州）](##租房合同提取公积金（广州）)
 
-
 ## 租房合同提取公积金（广州）
 - [查看公积金信息](http://my.gz.gov.cn/)
 - [广州住房公积金提取服务指南](http://www.gzgjj.gov.cn/web/static/articles/catalog_ff8080813b9be888013b9d7b26f20007/2016-05-27/article_ff8080813b9be888013b9d8fa4fe0035/ff8080813b9be888013b9d8fa4fe0035.html)
